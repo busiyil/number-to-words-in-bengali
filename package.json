@@ -1,0 +1,26 @@
+{
+  "name": "number-to-words-in-bengali",
+  "version": "1.0.3",
+  "description": "This is a javascript converter to convert number to Bengali words",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "converter",
+    "bangla",
+    "bengali",
+    "number",
+    "number2words"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "nyc": "^14.1.1",
+    "tape": "^5.0.1"
+  }
+}
